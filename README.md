@@ -1,0 +1,1 @@
+# akilli_evcik
