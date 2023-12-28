@@ -6,7 +6,7 @@
 #define WIFI_SSID "xxx"
 #define WIFI_PASSWORD "xxx"
 #define BOT_TOKEN "xxx"
-#define CHAT_ID "xxx"    //xxx yerine karşısındaki şeyin yazıolması gerek 
+#define CHAT_ID "xxx"    //xxx yerine karşısındaki şeyin yazıolması gerek ir
 #define BUTTON_PIN D4
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
 WiFiClientSecure secured_client;
