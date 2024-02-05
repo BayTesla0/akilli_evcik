@@ -15,7 +15,7 @@ pin25.value(0)
 
 gp18 = Pin(18, Pin.IN, Pin.PULL_DOWN)  # buton girişi
 gp19 = Pin(19, Pin.OUT)  # Röle su
-gp20 = Pin(20, Pin.IN, Pin.PULL_DOWN)  # buton girişi
+gp20 = Pin(20, Pin.IN, Pin.PULL_DOWN)  
 gp22 = Pin(22, Pin.IN, Pin.PULL_DOWN)  # çalışma saaati
 gp18.value(0)
 gp20.value(0)
